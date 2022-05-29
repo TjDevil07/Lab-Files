@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">shared_preferences</string>
+    <string name="english" />
+    <string name="hindi" />
+</resources>
